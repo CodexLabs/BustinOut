@@ -4,9 +4,8 @@ If you add any new files please make sure you add the source header to the top o
 ```
 /*
  * BustinOut version #
- * https://github.com/fusion94/BustinOut
+ * https://github.com/CodexLabs/BustinOut
  *
- * Copyright 2011-2013, http://fusion94.org
  * Licensed under the Mozilla Public License Version 2.0
  */
 ```
