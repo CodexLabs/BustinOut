@@ -8,7 +8,6 @@
  * Andrew McElroy - Codex Labs, LLC 
  * 
  * Licensed under the Mozilla Public License Version 2.0
- * See https://github.com/CodexLabs/BustinOut/Legal
  */
 
 
