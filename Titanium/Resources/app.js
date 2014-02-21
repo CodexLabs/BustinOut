@@ -1,14 +1,14 @@
 /*
- * BustinOut version 1.0
- * https://github.com/fusion94/BustinOut
- *
- * Copyright 2011-2013, http://fusion94.org
- * Licensed under the Mozilla Public License Version 2.0
+ * BustinOut version 1.3
+ * https://github.com/CodexLabs/BustinOut/Legal
  * 
+ * Authors (Chronologically 2011-2014): 
+ * Boydlee Pollentine - Tipsy & Tumbler Ltd
+ * Tony Guntharp - https://github.com/fusion94
+ * Andrew McElroy - Codex Labs, LLC 
  * 
- * Modified By Codex Labs, LLC for TryTitanium.com
- * Copyright 2013-2014, http://CodexLabs.com
  * Licensed under the Mozilla Public License Version 2.0
+ * See https://github.com/CodexLabs/BustinOut/Legal
  */
 
 
